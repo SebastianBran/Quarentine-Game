@@ -1,4 +1,4 @@
-# TF - Programacion II
+# TF - Programación II
 
 Juego con temática de la pandemia ocasionada por el covid - 19.
 
