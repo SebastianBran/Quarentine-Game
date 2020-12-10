@@ -1,0 +1,61 @@
+﻿  MyForm.cpp
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\Enemigo.h(178,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\CruzRoja.h(140,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\CruzRoja.h(141,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\CruzRoja.h(154,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\SimboloCruzRoja.h(32,56): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\SimboloCruzRoja.h(32,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\Jugador.h(66,70): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\Jugador.h(66,60): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\Jugador.h(77,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\Jugador.h(88,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\Jugador.h(108,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\Jugador.h(111,24): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\Jugador.h(117,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\Jugador.h(122,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\Jugador.h(127,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\Jugador.h(132,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\Jugador.h(226,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\Jugador.h(229,24): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\Jugador.h(234,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\Jugador.h(238,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\Jugador.h(242,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\Jugador.h(245,24): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\Jugador.h(250,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\Jugador.h(254,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\Jugador.h(280,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\Jugador.h(281,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\Jugador.h(298,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\Nivel1.h(71,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\Nivel1.h(107,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\Nivel1.h(116,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\Nivel1.h(131,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\Nivel1.h(136,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\Nivel2.h(71,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\Nivel2.h(107,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\Nivel2.h(116,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\Nivel2.h(131,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\Nivel2.h(136,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\MyForm.h(96,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\MyForm.h(639,75): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\MyForm.h(639,52): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\MyForm.h(657,91): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\MyForm.h(657,66): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\MyForm.h(659,101): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\MyForm.h(659,71): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\MyForm.h(661,88): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\MyForm.h(661,64): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\MyForm.h(749,75): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\MyForm.h(749,52): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\MyForm.h(784,75): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\MyForm.h(784,52): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\MyForm.h(815,75): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\MyForm.h(815,52): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\MyForm.h(833,79): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\MyForm.h(833,56): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\MyForm.h(843,75): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\MyForm.h(843,52): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\MyForm.h(845,92): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\MyForm.h(845,66): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  MyForm.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  juegoCovid.vcxproj -> C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\Debug\juegoCovid.exe

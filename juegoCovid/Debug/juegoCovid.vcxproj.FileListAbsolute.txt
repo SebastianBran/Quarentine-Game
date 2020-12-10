@@ -1,0 +1,3 @@
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\Debug\juegoCovid.MyForm.resources
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\Debug\juegoCovid.vcxproj.GenerateResource.cache
+C:\Users\User\Documents\cursos upc\ciclo 2\programacion II\Trabajo final\juegoCovid\juegoCovid\Debug\juegoCovid.vcxprojAssemblyReference.cache
